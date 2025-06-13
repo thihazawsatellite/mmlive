@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="01" tvg-name="Gtv HD" tvg-logo="https://i.ibb.co.com/m0GMwF8/images.png" group-title="Sumon Network ",Gtv HD
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
+#EXTINF:-1 tvg-id="02" tvg-name="T Sports HD " tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="Sumon Network ",T Sports HD 
+https://live.tsports.com/mobile_hls/tsports_live_1/index.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Maasranga HD" tvg-logo="https://i.ibb.co.com/Mc474bP/images-1.png" group-title="Sumon Network ",Maasranga HD
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 tvg-id="04" tvg-name="Btv HD" tvg-logo="https://i.ibb.co.com/23cGKTn/images-2.png" group-title="Sumon Network ",Btv HD
+http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="05" tvg-name="Sony Kal HD" tvg-logo="https://i.ibb.co.com/mHfTm0J/images.jpg" group-title="Sumon Network ",Sony Kal HD
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="06" tvg-name="Sony Max HD" tvg-logo="https://i.ibb.co.com/F6Kkqnb/162x0-icon.png" group-title="Sumon Network ",Sony Max HD
+http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:-1 tvg-id="07" tvg-name="Jalsha Movies" tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Sumon Network ",Jalsha Movies
+http://103.122.74.6:8888/hls/zeemovie.m3u8
+#EXTINF:-1 tvg-id="08" tvg-name="Colors Bangla HD" tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="Sumon Network ",Colors Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
+#EXTINF:-1 tvg-id="09" tvg-name="Discovery Bangla " tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="Sumon Network ",Discovery Bangla 
+http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Enterr10Bangla HD" tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="Sumon Network ",Enterr10Bangla HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Zee Bangla HD" tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="Sumon Network ",Zee Bangla HD
+http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Sumon Network ",Star Jalsha HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="Sony Aath HD" tvg-logo="https://i.ibb.co.com/0MPk8L9/images-4.jpg" group-title="Sumon Network ",Sony Aath HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="South Movies" tvg-logo="https://i.ibb.co.com/NSqdkXT/download.jpg" group-title="Sumon Network ",South Movies
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="Al Jazeera News" tvg-logo="https://i.ibb.co.com/WKfBNBp/images-1.png" group-title="Sumon Network ",Al Jazeera News
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="Movie Bangla HD " tvg-logo="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" group-title="Sumon Network ",Movie Bangla HD 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE4OjI2IFBNJmhhc2hfdmFsdWU9U25hNWJTY
+#EXTINF:-1 tvg-id="17" tvg-name="News 24 HD" tvg-logo="https://i.ibb.co.com/RP7D8tY/images-2.jpg" group-title="Sumon Network ",News 24 HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Desh TV" tvg-logo="https://i.ibb.co.com/HVPFXFT/download.png" group-title="Sumon Network ",Desh TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Channel i " tvg-logo="https://i.ibb.co.com/6yk3MZ1/images.png" group-title="Sumon Network ",Channel i 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUzOjIzIFBNJmhhc2hfdmFsdWU9QSsvTFNZQWxOblhKaHhWcmtrdjIzZz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-id="20" tvg-name="Channel S" tvg-logo="https://i.ibb.co.com/DfPjVYR/images.jpg" group-title="Sumon Network ",Channel S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="SA TV" tvg-logo="https://i.ibb.co.com/5YZ8Mph/images-2.webp" group-title="Sumon Network ",SA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="Jamuna Tv " tvg-logo="https://i.ibb.co.com/6JXZj0Q/1662487622-mdshamimislam.png" group-title="Sumon Network ",Jamuna Tv 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="Independent Tv" tvg-logo="https://i.ibb.co.com/c8mycfQ/Independent-Television-Logo-svg.png" group-title="Sumon Network ",Independent Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="Ekattor Tv" tvg-logo="https://i.ibb.co.com/2dH8wR1/Ekattor-TV-logo.png" group-title="Sumon Network ",Ekattor Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="Boishakhi tv" tvg-logo="https://i.ibb.co.com/cJ011hc/images-1-2.jpg" group-title="Sumon Network ",Boishakhi tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="Channel 9" tvg-logo="https://i.ibb.co.com/6RLjMkt/images.jpg" group-title="Sumon Network ",Channel 9
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="ME tv" tvg-logo="https://i.ibb.co.com/BjWTMLy/images-1.png" group-title="Sumon Network ",ME tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="My tv HD" tvg-logo="https://i.ibb.co.com/bNBq22B/images-2.jpg" group-title="Sumon Network ",My tv HD
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Ekushey Tv" tvg-logo="https://i.ibb.co.com/G9d0D22/images.jpg" group-title="Sumon Network ",Ekushey Tv
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Asian Tv" tvg-logo="https://i.ibb.co.com/gJKSbwN/images.png" group-title="Sumon Network ",Asian Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="Peace tv Bangla " tvg-logo="https://i.ibb.co.com/Vw5jDDf/Peace-TV-official-logo.png" group-title="Sumon Network ",Peace tv Bangla 
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=KmRfURTSSE-ruL-mHfwP0w
